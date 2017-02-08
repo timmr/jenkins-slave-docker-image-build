@@ -4,3 +4,5 @@ This Dockerfile produces a jenkins slave image, that contains the necessary righ
 
 * /run/docker.sock
 * /var/run/docker.sock
+
+The image is available at https://hub.docker.com/r/nbyl/jenkins-slave-docker-image-build/
